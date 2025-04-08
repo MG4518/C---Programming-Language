@@ -1,5 +1,5 @@
 # C---Programming-Language
-Welcome to the C Programming Language repository! This repo contains a collection of C programs ranging from beginner-level concepts to more advanced projects. It's a great starting point for anyone looking to learn or brush up on C fundamentals.
+Welcome to the C Programming Language repository! This repo contains a collection of C programs ranging from beginner-level concepts to more advanced concepts. It's a great starting point for anyone looking to learn or brush up on C fundamentals.
 # 📌 About C Language
 The C programming language has a rich history rooted in the development of operating systems and software systems that shaped modern computing.
 
